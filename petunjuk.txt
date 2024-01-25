@@ -1,0 +1,14 @@
+
+username : deddy@gmail.com
+password : password
+
+Tabel antrians
+* tanggal : digunakan untuk mencatat tanggal pelayanan antrian
+* nomor : nomor antrian
+* status : mulai(antrian dibuat) - selesai(antrian dipanggil)
+* users_id : menujukkan user dari tabel users mana yang input data antrian
+
+Tabel users
+* name : nama user 
+* email : email user, yang digunakan untuk login
+* password : password login
